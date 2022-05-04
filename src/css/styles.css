@@ -1,0 +1,40 @@
+body {
+    margin: 0;
+    background-color: bisque;
+
+}
+
+#map {
+    height: 65vh;
+    width: 100%;
+}
+
+.map-container {
+    display: flex;
+    width: 90%;
+    margin: auto;
+    flex-wrap: wrap;
+
+}
+
+#showMe {
+    background-color: rgb(171, 154, 188);
+    height: 45px;
+    width: 200px;
+    color: yellow;
+
+}
+
+#showMe:hover {
+    background-color: rgb(192, 126, 126);
+    padding: 10px;
+    font-weight: 500;
+    color: aliceblue;
+    font-style: oblique;
+    font-size: larger;
+
+}
+
+footer {
+    background-color: rgb(171, 154, 188);
+}
